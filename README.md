@@ -6,7 +6,6 @@
 - Coding languages
 -   Python(intermediate)
 -   c++ (Basics)
--   python(intermediate)
 
 <!---
 nihalkpkammilipparambil/nihalkpkammilipparambil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
